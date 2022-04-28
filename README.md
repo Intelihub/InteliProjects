@@ -19,17 +19,15 @@
 <br><a href="https://github.com/2022M1T4">Inteli</a>
 <br><a href="https://github.com/2022M1T5">USP</a>
 </details>
-<br><br>
 
 <details>
 <summary>Módulo 2</summary>
-<a href="https://github.com/2022M1T1">Ambev</a>
-<br><a href="https://github.com/2022M1T2">BTG Pactual</a>
-<br><a href="https://github.com/2022M1T3">Yamaha</a>
-<br><a href="https://github.com/2022M1T4">HURB</a>
-<br><a href="https://github.com/2022M1T5">USP</a>
+<a href="https://github.com/2022M2T1">Brazilians in Tech</a>
+<br><a href="https://github.com/2022M2T2">Revirar</a>
+<br><a href="https://github.com/2022M2T3">Yamaha</a>
+<br><a href="https://github.com/2022M2T4">HURB</a>
+<br><a href="https://github.com/2022M2T5">Falconi</a>
 </details>
-<br><br>
 
 
 💡 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
