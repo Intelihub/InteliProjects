@@ -11,12 +11,24 @@
 ## Indice de Projetos
 
 📜2022
-<br>Módulo 1<br>
-<a href="#teste">Ambev</a>
-<br>BTG Pactual
-<br>Constituição Escola
-<br>Inteli
-<br>USP
+<details>
+<summary>Módulo 1</summary>
+<a href="https://github.com/2022M1T1">Ambev</a>
+<br><a href="https://github.com/2022M1T2">BTG Pactual</a>
+<br><a href="https://github.com/2022M1T3">Constituição Escola</a>
+<br><a href="https://github.com/2022M1T4">Inteli</a>
+<br><a href="https://github.com/2022M1T5">USP</a>
+</details>
+<br><br>
+
+<details>
+<summary>Módulo 2</summary>
+<a href="https://github.com/2022M1T1">Ambev</a>
+<br><a href="https://github.com/2022M1T2">BTG Pactual</a>
+<br><a href="https://github.com/2022M1T3">Yamaha</a>
+<br><a href="https://github.com/2022M1T4">HURB</a>
+<br><a href="https://github.com/2022M1T5">USP</a>
+</details>
 <br><br>
 
 
@@ -27,88 +39,22 @@ Meu projeto ajuda estudantes inteli a configurarem seus githubs.
 May the force be with you!
 <br><br>
 
+### Professores Envolvidos
 
+Para a execução de todos os projetos há uma equipe fenomenal envolvida e aqui estão seus membros:
 
-## 💻 AMBEV
-<p id="t1"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
-
-## 💻 AMBEV
-<p id="teste"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
-
-## 💻 AMBEV
-<p id="teste"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
-
-## 💻 AMBEV
-<p id="teste"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
-
-## 💻 AMBEV
-<p id="teste"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
-
-## 💻 AMBEV
-<p id="teste"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
-
-## 💻 AMBEV
-<p id="teste"></p>
-Sobre o projeto: Lorem Ipsun<br>
-
-### Projetos
-
-<a href="https://github.com/2022M1T1/Projeto1" target="_blank" rel="noopener noreferrer"> Dive Into Inclusion </a>
-<br><a href="https://github.com/2022M1T1/Projeto2" target="_blank" rel="noopener noreferrer"> Ambevs </a>
-<br><a href="https://github.com/2022M1T1/Projeto3" target="_blank" rel="noopener noreferrer"> Rainbow Dev </a>
-<br><a href="https://github.com/2022M1T1/Projeto4" target="_blank" rel="noopener noreferrer"> InBev </a>
-<br><a href="https://github.com/2022M1T1/Projeto5" target="_blank" rel="noopener noreferrer"> Zé Developers </a>
+<a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Ana Cristina </a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Andre Luiz Braga </a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Daniel Paz de Araujo </a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Egon Daxbacher </a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Fabiana Martins de Oliveira</a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Flavio Marques Azevedo </a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Henrique Paiva </a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Laíza Ribeiro </a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Mauricio Garcia</a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Monica Anastassiu </a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Pedro Teberga</a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Ricardo Missori </a>
+<br><a href="http://lattes.cnpq.br/2716416791407528" target="_blank" rel="noopener noreferrer"> Sergio Venancio </a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Thais Rodrigues Neubauer</a>
+<br><a href="http://lattes.cnpq.br/3254174044411983" target="_blank" rel="noopener noreferrer"> Victor Bruno Alexander Rosetti de Quiroz </a>
