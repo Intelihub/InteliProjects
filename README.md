@@ -1,5 +1,5 @@
 
-#  → Módulo game  | <a>Módulo web</a>
+#  → Módulo game  | <a href="https://github.com/2022M1T1/.github/blob/main/MODULO_WEB.md">Módulo web</a>
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
